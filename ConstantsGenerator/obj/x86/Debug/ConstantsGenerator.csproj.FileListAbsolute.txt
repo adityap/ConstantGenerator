@@ -1,0 +1,9 @@
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\bin\Debug\ConstantsGenerator.exe
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\bin\Debug\ConstantsGenerator.pdb
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\obj\x86\Debug\ConstantsGenerator.frmConstantGenerator.resources
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\obj\x86\Debug\ConstantsGenerator.Properties.Resources.resources
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\obj\x86\Debug\ConstantsGenerator.exe
+C:\Aditya\VS Projects\ConstantsGenerator\ConstantsGenerator\obj\x86\Debug\ConstantsGenerator.pdb
